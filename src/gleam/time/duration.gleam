@@ -1,7 +1,7 @@
+import gleam/float
 import gleam/int
 import gleam/order
 import gleam/string
-import gleam/float
 
 /// An amount of time, with up to nanosecond precision.
 ///
